@@ -56,7 +56,7 @@ Project Link | Associated | Tools | Project Description
 [Captación de Fondos Dashboard](https://lookerstudio.google.com/reporting/6b58dee0-5908-49dd-afca-14e78d791e7e)| Challenge - Guayerd| Looker Studio | Se realizo la limpieza de datos y se diseño una base de datos estructural para la fundación Potenciar Solidario. En efecto, se identifico los rasgos demográficos, perfiles de donantes y proveedores para mejorar su gestión operativa y la estrátegia de fidelización los donantes.
 <br>
 
-### 📂 Volattilidad y rentabilidad de portafolios
+### 📂 Volatilidad y rentabilidad de portafolios
 
 Project Link | Associated | Tools | Project Description
 ---|---|-----|---
