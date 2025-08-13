@@ -41,8 +41,8 @@ Project Link | Area | Tools | Project Description
 
 Area | Project Link | Associated | Tools | Project Description
 ---|---|---|---|---
-📂 Excel avanzado(macros, fórmulas complejas)|[Clasificador de imágenes florales](https://github.com/litahu/project_2_imagen_clasifier) | |  | 
-📂 Python para analisis financiero|[Clasificador de imágenes florales](https://github.com/litahu/project_2_imagen_clasifier) | |  | 
+Excel avanzado(macros, fórmulas complejas)|[📂 Clasificador de imágenes florales](https://github.com/litahu/project_2_imagen_clasifier) [📂 Clasificador de imágenes florales](https://github.com/litahu/project_2_imagen_clasifier) | |  | 
+Python para analisis financiero|[Clasificador de imágenes florales](https://github.com/litahu/project_2_imagen_clasifier) | |  | 
 📂 SQL para extracción de datos|[Análisis: Captación de Fondos](https://github.com/litahu/Data-Analytics-in-SQL-de-Potenciar-Solidario/blob/main/README.md)|Guayerd: Normalización, cardinalidad y creación de base de datos|  MySQL, MySQL Workbench y Power BI para la visualización | Normalicé los datos y establecí su cardinalidad. Posteriormente, cree la base de datos con sus respectivas llaves (primaria y foránea). De ese modo logré identificar las categorías donde se incurren los mayores gastos por proveedor, además logré identificar a los donantes que estan en riesgo para el año 2024
 
 <br>
