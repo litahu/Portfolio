@@ -76,7 +76,7 @@ Project Link | Associated | Tools | Project Description
 ## 📑 Reporte y documentación
 <br>
 
-#### 📂 Power, Tableau o Looker para visualización
+### 📂 Power, Tableau o Looker para visualización
 
 Project Link | Associated | Tools | Project Description
 ---|---|-----|---
@@ -84,7 +84,7 @@ Project Link | Associated | Tools | Project Description
 [Campaña Promocional de Marketing](https://public.tableau.com/shared/44Y5QGR37?:display_count=n&:origin=viz_share_link) | Startup inmobiliaria | Tableau | Frente al desafío de posicionamiento de la Startup inmobiliaria se analizo el desempeño publicitario(promedio ROMI, gasto por campaña e ingresos percibidos).
 <br>
 
-#### 📂 Redacción técnica y documentación de procesos
+### 📂 Redacción técnica y documentación de procesos
 
 Project Link | Associated | Tools | Project Description
 ---|---|-----|---
