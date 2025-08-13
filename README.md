@@ -5,8 +5,7 @@ Esta documentación es una instantánea rápida de mi proyecto en el campo de lo
 
 - [Análisis cuantitativo y estadística](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-Análisis-cuantitativo-y-estadística)
 - [Data Engineering](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-data-engineering)
-- [Python: Data Analysis and Machine Learning](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-python-data-analysis-and-machine-learning)
-- [SQL](https://github.com/litahu/Lita-s-Project-Portfolio#-sql)
+- [Automatización y programación](https://github.com/litahu/Portfolio?tab=readme-ov-file#-Automatización-y-programación)
 - [Reporte y documentación](https://github.com/litahu/Portfolio?tab=readme-ov-file#-Reporte-y-documentación)
 - [Complated Course and Certification](https://github.com/litahu/Lita-s-Project-Portfolio?tab=readme-ov-file#-complated-courses-and-certifications-to-understand-industries)
 
@@ -49,12 +48,27 @@ Project Link | Area | Tools | Project Description
 <br>
 
 ### 🧮 Automatización y programación
+<br>
 
-Area | Project Link | Associated | Tools | Project Description
----|---|---|---|---
-Excel avanzado(macros, fórmulas complejas)|[📂 Clasificador de imágenes florales](https://github.com/litahu/project_2_imagen_clasifier) [📂 Clasificador de imágenes florales](https://github.com/litahu/project_2_imagen_clasifier) | |  | 
-Python para analisis financiero|[Clasificador de imágenes florales](https://github.com/litahu/project_2_imagen_clasifier) | |  | 
-📂 SQL para extracción de datos|[Análisis: Captación de Fondos](https://github.com/litahu/Data-Analytics-in-SQL-de-Potenciar-Solidario/blob/main/README.md)|Guayerd: Normalización, cardinalidad y creación de base de datos|  MySQL, MySQL Workbench y Power BI para la visualización | Normalicé los datos y establecí su cardinalidad. Posteriormente, cree la base de datos con sus respectivas llaves (primaria y foránea). De ese modo logré identificar las categorías donde se incurren los mayores gastos por proveedor, además logré identificar a los donantes que estan en riesgo para el año 2024
+#### 📂 Excel avanzado(macros, fórmulas complejas)
+
+Project Link | Associated | Tools | Project Description
+---|---|-----|---
+[Captación de Fondos Dashboard](https://lookerstudio.google.com/reporting/6b58dee0-5908-49dd-afca-14e78d791e7e)| Challenge - Guayerd| Looker Studio | Se realizo la limpieza de datos y se diseño una base de datos estructural para la fundación Potenciar Solidario. En efecto, se identifico los rasgos demográficos, perfiles de donantes y proveedores para mejorar su gestión operativa y la estrátegia de fidelización los donantes.
+<br>
+
+#### 📂 Python, Stata o R para análisis financiero
+
+Project Link | Associated | Tools | Project Description
+---|---|-----|---
+[Captación de Fondos Dashboard](https://lookerstudio.google.com/reporting/6b58dee0-5908-49dd-afca-14e78d791e7e)| Challenge - Guayerd| Looker Studio | Se realizo la limpieza de datos y se diseño una base de datos estructural para la fundación Potenciar Solidario. En efecto, se identifico los rasgos demográficos, perfiles de donantes y proveedores para mejorar su gestión operativa y la estrátegia de fidelización los donantes.
+<br>
+
+#### 📂 SQL para extracción de datos
+
+Project Link | Associated | Tools | Project Description
+---|---|-----|---
+[Captación de Fondos Dashboard](https://lookerstudio.google.com/reporting/6b58dee0-5908-49dd-afca-14e78d791e7e)| Challenge - Guayerd| Looker Studio | Se realizo la limpieza de datos y se diseño una base de datos estructural para la fundación Potenciar Solidario. En efecto, se identifico los rasgos demográficos, perfiles de donantes y proveedores para mejorar su gestión operativa y la estrátegia de fidelización los donantes.
 
 <br>
 <br>
@@ -66,14 +80,15 @@ Python para analisis financiero|[Clasificador de imágenes florales](https://git
 
 Project Link | Associated | Tools | Project Description
 ---|---|-----|---
-🎁 [Captación de Fondos Dashboard](https://lookerstudio.google.com/reporting/6b58dee0-5908-49dd-afca-14e78d791e7e)| Challenge - Guayerd| Looker Studio | Se realizo la limpieza de datos y se diseño una base de datos estructural para la fundación Potenciar Solidario. En efecto, se identifico los rasgos demográficos, perfiles de donantes y proveedores para mejorar su gestión operativa y la estrátegia de fidelización los donantes.
-🏡 [Campaña Promocional de Marketing](https://public.tableau.com/shared/44Y5QGR37?:display_count=n&:origin=viz_share_link) | Startup inmobiliaria | Tableau | Frente al desafío de posicionamiento de la Startup inmobiliaria se analizo el desempeño publicitario(promedio ROMI, gasto por campaña e ingresos percibidos).
+[Captación de Fondos Dashboard](https://lookerstudio.google.com/reporting/6b58dee0-5908-49dd-afca-14e78d791e7e)| Challenge - Guayerd| Looker Studio | Se realizo la limpieza de datos y se diseño una base de datos estructural para la fundación Potenciar Solidario. En efecto, se identifico los rasgos demográficos, perfiles de donantes y proveedores para mejorar su gestión operativa y la estrátegia de fidelización los donantes.
+[Campaña Promocional de Marketing](https://public.tableau.com/shared/44Y5QGR37?:display_count=n&:origin=viz_share_link) | Startup inmobiliaria | Tableau | Frente al desafío de posicionamiento de la Startup inmobiliaria se analizo el desempeño publicitario(promedio ROMI, gasto por campaña e ingresos percibidos).
+<br>
 
 #### 📂 Redacción técnica y documentación de procesos
 
 Project Link | Associated | Tools | Project Description
 ---|---|-----|---
-🎁 [Captación de Fondos Dashboard](https://lookerstudio.google.com/reporting/6b58dee0-5908-49dd-afca-14e78d791e7e)| Challenge - Guayerd| Looker Studio | Se realizo la limpieza de datos y se diseño una base de datos estructural para la fundación Potenciar Solidario. En efecto, se identifico los rasgos demográficos, perfiles de donantes y proveedores para mejorar su gestión operativa y la estrátegia de fidelización los donantes.
+[Captación de Fondos Dashboard](https://lookerstudio.google.com/reporting/6b58dee0-5908-49dd-afca-14e78d791e7e)| Challenge - Guayerd| Looker Studio | Se realizo la limpieza de datos y se diseño una base de datos estructural para la fundación Potenciar Solidario. En efecto, se identifico los rasgos demográficos, perfiles de donantes y proveedores para mejorar su gestión operativa y la estrátegia de fidelización los donantes.
 
 <br>
 <br>
